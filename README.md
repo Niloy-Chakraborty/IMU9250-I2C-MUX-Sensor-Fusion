@@ -7,6 +7,13 @@ The IMU 9250 are connected to I2C Mux and  which is connected to the Raspberry p
 1. Python script-Using Kalman Flltering.
 
  2.Example data
+ 
+## Hardware
+Grove - IMU 9DOF v2.0
+
+PI4 MODEL B / 4GB - Raspberry Pi 4 1.5GHz Quad-Core, 4GB RAM
+
+Adafruit TCA9548A 1-to-8 I2C Multiplexer Breakout
 
 ### Dependencies
 You must install the RTIMU Library and calibrate each sensor
@@ -17,3 +24,5 @@ i2cdetect -y 1
 
 This should display 70 for the mux and  68 for IMU in the grid.
 If not check your connections.
+
+
