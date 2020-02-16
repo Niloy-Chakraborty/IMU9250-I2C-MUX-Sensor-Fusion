@@ -26,6 +26,6 @@ This should display 70 for the mux and  68 for IMU in the grid.
 If not check your connections.
 
 ## CSV Files
-The code generates two csv files , one -*Data.csv* for sensor fusion files and the other for *9axis.csv* for storing the Accel,Gyro and Magnetometer Values.
+The code generates two csv files , one *Data.csv* for sensor fusion files and the other for *9axis.csv* for storing the Accel,Gyro and Magnetometer Values.
 
 
