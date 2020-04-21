@@ -5,7 +5,6 @@ The IMU 9250 are connected to I2C Mux and  which is connected to the Raspberry p
 
 ## Attachents.
 1. Python script-Using Kalman Flltering.
-
 2.Example data
  
 ## Hardware
